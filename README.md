@@ -91,10 +91,3 @@ Neste gang:
 * NTNU-studenter
 * Folk som vil ha **full kontroll** på kalenderen sin
 * Deg som liker **struktur, lav visuell støy og automatisering**
-
----
-
-## ✅ Status
-
-Prosjektet er ferdig, stabilt og i daglig bruk.
-
