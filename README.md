@@ -52,7 +52,7 @@ pip install ics requests
 
 ### 2️⃣ Konfigurer
 
-Åpne `split_tp_calendar_configurable_report_NO.py` og endre kun dette øverst:
+Åpne `split_tp_calendar.py` og endre kun dette øverst:
 
 * `ICS_URL` → TP-lenken din
 * `COURSES` → fagkoder, kortkoder og filnavn
@@ -61,7 +61,7 @@ pip install ics requests
 ### 3️⃣ Kjør
 
 ```bash
-python split_tp_calendar_configurable_report_NO.py
+python split_tp_calendar.py
 ```
 
 ### 4️⃣ Last opp til GitHub
@@ -81,7 +81,7 @@ Neste gang:
 
 ## 📄 Filer i repoet
 
-* `split_tp_calendar_configurable_report_NO.py` – hovedscript
+* `split_tp_calendar.py` – hovedscript
 * `00.ics`, `02.ics`, `05.ics`, `06.ics` – genererte kalendere (eksempel)
 
 ---
@@ -98,10 +98,3 @@ Neste gang:
 
 Prosjektet er ferdig, stabilt og i daglig bruk.
 
----
-
-Hvis du vil bygge videre:
-
-* legg til flere fag
-* juster typekoder
-* eller bruk samme oppsett neste studieår ved å endre config
