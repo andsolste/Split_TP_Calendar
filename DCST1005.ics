@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-127
+DTEND:20260206T110000Z
+LOCATION:Realfagbygget R52
+DTSTART:20260206T071500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:20694966172e572
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260211T150000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260211T111500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:6694966172e44c
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260121T150000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260121T111500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:3694966172e417
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-127
+DTEND:20260327T110000Z
+LOCATION:Realfagbygget R52
+DTSTART:20260327T071500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:26694966172e5fb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260318T150000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260318T111500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:10694966172e4a8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-127
+DTEND:20260320T110000Z
+LOCATION:Realfagbygget R52
+DTSTART:20260320T071500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:25694966172e5e7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-127
+DTEND:20260227T110000Z
+LOCATION:Realfagbygget R52
+DTSTART:20260227T071500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:22694966172e597
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260114T150000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260114T111500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:2694966172e3ff
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260107T150000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260107T111500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:1694966172e3bf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260429T140000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260429T101500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:15694966172e513
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260415T140000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260415T101500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:13694966172e4f0
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-127
+DTEND:20260116T110000Z
+LOCATION:Realfagbygget R52
+DTSTART:20260116T071500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:17694966172e537
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260325T150000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260325T111500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:11694966172e4c4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-127
+DTEND:20260306T110000Z
+LOCATION:Realfagbygget R52
+DTSTART:20260306T071500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:23694966172e5a8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-127
+DTEND:20260410T100000Z
+LOCATION:Realfagbygget R52
+DTSTART:20260410T061500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:27694966172e60d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260204T150000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260204T111500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:5694966172e43a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260311T150000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260311T111500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:9694966172e48f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-127
+DTEND:20260424T100000Z
+LOCATION:Realfagbygget R52
+DTSTART:20260424T061500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:29694966172e62f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260304T150000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260304T111500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:8694966172e474
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260128T150000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260128T111500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:4694966172e429
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260225T150000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260225T111500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:7694966172e45d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-127
+DTEND:20260213T110000Z
+LOCATION:Realfagbygget R52
+DTSTART:20260213T071500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:21694966172e585
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260422T140000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260422T101500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:14694966172e502
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-127
+DTEND:20260109T110000Z
+LOCATION:Realfagbygget R52
+DTSTART:20260109T071500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:16694966172e525
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-127
+DTEND:20260130T110000Z
+LOCATION:Realfagbygget R52
+DTSTART:20260130T071500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:19694966172e55b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-127
+DTEND:20260123T110000Z
+LOCATION:Realfagbygget R52
+DTSTART:20260123T071500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:18694966172e549
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260408T140000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260408T101500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:12694966172e4d8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-127
+DTEND:20260313T110000Z
+LOCATION:Realfagbygget R52
+DTSTART:20260313T071500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:24694966172e5b8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T153903Z
+DESCRIPTION:DCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-127
+DTEND:20260417T100000Z
+LOCATION:Realfagbygget R52
+DTSTART:20260417T061500Z
+SUMMARY:DCST1005 Forelesning/Lab \n
+UID:28694966172e61e
+END:VEVENT
+END:VCALENDAR
