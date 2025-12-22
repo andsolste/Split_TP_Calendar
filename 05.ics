@@ -1,0 +1,236 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260114T150000Z
+LOCATION:A2-107
+DTSTART:20260114T111500Z
+SUMMARY:05 f
+UID:269497e1b64bd9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260318T150000Z
+LOCATION:A2-107
+DTSTART:20260318T111500Z
+SUMMARY:05 f
+UID:1069497e1b64c52
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260320T110000Z
+LOCATION:R52
+DTSTART:20260320T071500Z
+SUMMARY:05 f
+UID:2569497e1b64d40
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260304T150000Z
+LOCATION:A2-107
+DTSTART:20260304T111500Z
+SUMMARY:05 f
+UID:869497e1b64c36
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260327T110000Z
+LOCATION:R52
+DTSTART:20260327T071500Z
+SUMMARY:05 f
+UID:2669497e1b64d4f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260313T110000Z
+LOCATION:R52
+DTSTART:20260313T071500Z
+SUMMARY:05 f
+UID:2469497e1b64d1a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260109T110000Z
+LOCATION:R52
+DTSTART:20260109T071500Z
+SUMMARY:05 f
+UID:1669497e1b64ca8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260415T140000Z
+LOCATION:A2-107
+DTSTART:20260415T101500Z
+SUMMARY:05 f
+UID:1369497e1b64c7f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260417T100000Z
+LOCATION:R52
+DTSTART:20260417T061500Z
+SUMMARY:05 f
+UID:2869497e1b64d6b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260429T140000Z
+LOCATION:A2-107
+DTSTART:20260429T101500Z
+SUMMARY:05 f
+UID:1569497e1b64c9b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260123T110000Z
+LOCATION:R52
+DTSTART:20260123T071500Z
+SUMMARY:05 f
+UID:1869497e1b64cc5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260227T110000Z
+LOCATION:R52
+DTSTART:20260227T071500Z
+SUMMARY:05 f
+UID:2269497e1b64cfd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260211T150000Z
+LOCATION:A2-107
+DTSTART:20260211T111500Z
+SUMMARY:05 f
+UID:669497e1b64c1a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260128T150000Z
+LOCATION:A2-107
+DTSTART:20260128T111500Z
+SUMMARY:05 f
+UID:469497e1b64bfc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260325T150000Z
+LOCATION:A2-107
+DTSTART:20260325T111500Z
+SUMMARY:05 f
+UID:1169497e1b64c60
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260225T150000Z
+LOCATION:A2-107
+DTSTART:20260225T111500Z
+SUMMARY:05 f
+UID:769497e1b64c28
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260206T110000Z
+LOCATION:R52
+DTSTART:20260206T071500Z
+SUMMARY:05 f
+UID:2069497e1b64ce1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260311T150000Z
+LOCATION:A2-107
+DTSTART:20260311T111500Z
+SUMMARY:05 f
+UID:969497e1b64c44
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260408T140000Z
+LOCATION:A2-107
+DTSTART:20260408T101500Z
+SUMMARY:05 f
+UID:1269497e1b64c6d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260306T110000Z
+LOCATION:R52
+DTSTART:20260306T071500Z
+SUMMARY:05 f
+UID:2369497e1b64d0c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260410T100000Z
+LOCATION:R52
+DTSTART:20260410T061500Z
+SUMMARY:05 f
+UID:2769497e1b64d5d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260107T150000Z
+LOCATION:A2-107
+DTSTART:20260107T111500Z
+SUMMARY:05 f
+UID:169497e1b64ba6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260116T110000Z
+LOCATION:R52
+DTSTART:20260116T071500Z
+SUMMARY:05 f
+UID:1769497e1b64cb6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260422T140000Z
+LOCATION:A2-107
+DTSTART:20260422T101500Z
+SUMMARY:05 f
+UID:1469497e1b64c8d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260213T110000Z
+LOCATION:R52
+DTSTART:20260213T071500Z
+SUMMARY:05 f
+UID:2169497e1b64cef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260204T150000Z
+LOCATION:A2-107
+DTSTART:20260204T111500Z
+SUMMARY:05 f
+UID:569497e1b64c0c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260424T100000Z
+LOCATION:R52
+DTSTART:20260424T061500Z
+SUMMARY:05 f
+UID:2969497e1b64d7a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260121T150000Z
+LOCATION:A2-107
+DTSTART:20260121T111500Z
+SUMMARY:05 f
+UID:369497e1b64beb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1005 Forelesning/Lab \n\n\nDCST1005\nForelesning/Lab \n.\nT.I. Melling\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260130T110000Z
+LOCATION:R52
+DTSTART:20260130T071500Z
+SUMMARY:05 f
+UID:1969497e1b64cd2
+END:VEVENT
+END:VCALENDAR
