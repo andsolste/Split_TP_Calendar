@@ -14,6 +14,7 @@ Målet er en **ren og oversiktlig kalender** der:
 ## ✨ Hva scriptet gjør
 
 Scriptet:
+Pappa er snill
 
 * 📥 laster ned én samlet `.ics`-fil fra NTNU Timeplan (studentgruppe)
 * ✂️ splitter kalenderen i **én fil per fag**
