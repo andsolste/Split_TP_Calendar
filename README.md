@@ -75,38 +75,6 @@ Lag en fil i prosjektmappen som heter:
 run_and_push.bat
 ```
 
-Innhold:
-
-```bat
-@echo off
-setlocal
-
-REM Gå til prosjektmappen
-cd /d "C:\Users\andre\OneDrive - NTNU\Split_TP_Calendar"
-
-REM Kjør Python-scriptet
-python "split_tp_calendar.py" >> "%USERPROFILE%\Desktop\split_tp_log.txt" 2>&1
-
-REM Legg til kalenderfilene
-git add 00.ics 02.ics 05.ics 06.ics >> "%USERPROFILE%\Desktop\split_tp_log.txt" 2>&1
-
-REM Avbryt hvis ingen endringer
-git diff --cached --quiet
-if %errorlevel%==0 (
-    echo %date% %time% - Ingen endringer >> "%USERPROFILE%\Desktop\split_tp_log.txt"
-    goto :EOF
-)
-
-REM Commit
-git commit -m "Oppdater timeplan %date% %time%" >> "%USERPROFILE%\Desktop\split_tp_log.txt" 2>&1
-
-REM Push til aktiv branch (main/master)
-for /f "delims=" %%b in ('git rev-parse --abbrev-ref HEAD') do set BRANCH=%%b
-git push origin %BRANCH% >> "%USERPROFILE%\Desktop\split_tp_log.txt" 2>&1
-
-endlocal
-```
-
 📄 Logg skrives til:
 ```
 Desktop\split_tp_log.txt
@@ -172,11 +140,3 @@ Dette oppsettet er:
 - Google-kompatibelt
 - framtidssikkert
 - laget for gjenbruk neste studieår
-
----
-
-Hvis du vil, kan dette enkelt utvides med:
-- `SETUP.md`
-- flytdiagram
-- Linux/macOS-støtte
-- eller en kort TL;DR øverst
