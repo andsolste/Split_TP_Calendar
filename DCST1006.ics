@@ -2,291 +2,291 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
-DTEND:20260414T100000Z
-LOCATION:Realfagbygget R9
-DTSTART:20260414T071500Z
-SUMMARY:DCST1006 Forelesning
-UID:43694966172e759
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260107T110000Z
-LOCATION:Realfagbygget A2-107
-DTSTART:20260107T071500Z
-SUMMARY:DCST1006 Laboratorieøvelse
-UID:46694966172e78d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260304T110000Z
-LOCATION:Realfagbygget A2-107
-DTSTART:20260304T071500Z
-SUMMARY:DCST1006 Laboratorieøvelse
-UID:54694966172e841
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
-DTEND:20260210T110000Z
-LOCATION:Realfagbygget R9
-DTSTART:20260210T081500Z
-SUMMARY:DCST1006 Forelesning
-UID:35694966172e6cc
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260318T110000Z
-LOCATION:Realfagbygget A2-107
-DTSTART:20260318T071500Z
-SUMMARY:DCST1006 Laboratorieøvelse
-UID:56694966172e864
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260415T100000Z
-LOCATION:Realfagbygget A2-107
-DTSTART:20260415T061500Z
-SUMMARY:DCST1006 Laboratorieøvelse
-UID:59694966172e89a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260121T110000Z
-LOCATION:Realfagbygget A2-107
-DTSTART:20260121T071500Z
-SUMMARY:DCST1006 Laboratorieøvelse
-UID:48694966172e7b2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260429T100000Z
-LOCATION:Realfagbygget A2-107
-DTSTART:20260429T061500Z
-SUMMARY:DCST1006 Laboratorieøvelse
-UID:61694966172e8bc
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260408T100000Z
-LOCATION:Realfagbygget A2-107
-DTSTART:20260408T061500Z
-SUMMARY:DCST1006 Laboratorieøvelse
-UID:58694966172e889
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
-DTEND:20260317T110000Z
-LOCATION:Realfagbygget R9
-DTSTART:20260317T081500Z
-SUMMARY:DCST1006 Forelesning
-UID:40694966172e726
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
-DTEND:20260113T110000Z
-LOCATION:Realfagbygget R9
-DTSTART:20260113T081500Z
-SUMMARY:DCST1006 Forelesning
-UID:31694966172e654
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
-DTEND:20260428T100000Z
-LOCATION:Realfagbygget R9
-DTSTART:20260428T071500Z
-SUMMARY:DCST1006 Forelesning
-UID:45694966172e77c
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
-DTEND:20260407T100000Z
-LOCATION:Realfagbygget R9
-DTSTART:20260407T071500Z
-SUMMARY:DCST1006 Forelesning
-UID:42694966172e748
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
-DTEND:20260203T110000Z
-LOCATION:Realfagbygget R9
-DTSTART:20260203T081500Z
-SUMMARY:DCST1006 Forelesning
-UID:34694966172e6ba
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260225T110000Z
-LOCATION:Realfagbygget A2-107
-DTSTART:20260225T071500Z
-SUMMARY:DCST1006 Laboratorieøvelse
-UID:53694966172e830
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
+DTSTAMP:20251222T161145Z
 DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
 DTEND:20260310T110000Z
 LOCATION:Realfagbygget R9
 DTSTART:20260310T081500Z
 SUMMARY:DCST1006 Forelesning
-UID:39694966172e714
+UID:3969496dc15af19
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
+DTSTAMP:20251222T161145Z
 DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260218T110000Z
+DTEND:20260121T110000Z
 LOCATION:Realfagbygget A2-107
-DTSTART:20260218T071500Z
+DTSTART:20260121T071500Z
 SUMMARY:DCST1006 Laboratorieøvelse
-UID:52694966172e81f
+UID:4869496dc15b009
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
-DTEND:20260120T110000Z
-LOCATION:Realfagbygget R9
-DTSTART:20260120T081500Z
-SUMMARY:DCST1006 Forelesning
-UID:32694966172e689
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
-DTEND:20260224T110000Z
-LOCATION:Realfagbygget R9
-DTSTART:20260224T081500Z
-SUMMARY:DCST1006 Forelesning
-UID:37694966172e6f1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
-DTEND:20260127T110000Z
-LOCATION:Realfagbygget R9
-DTSTART:20260127T081500Z
-SUMMARY:DCST1006 Forelesning
-UID:33694966172e6a6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260311T110000Z
-LOCATION:Realfagbygget A2-107
-DTSTART:20260311T071500Z
-SUMMARY:DCST1006 Laboratorieøvelse
-UID:55694966172e853
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260204T110000Z
-LOCATION:Realfagbygget A2-107
-DTSTART:20260204T071500Z
-SUMMARY:DCST1006 Laboratorieøvelse
-UID:50694966172e7d7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
-DTEND:20260217T110000Z
-LOCATION:Realfagbygget R9
-DTSTART:20260217T081500Z
-SUMMARY:DCST1006 Forelesning
-UID:36694966172e6df
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260114T110000Z
-LOCATION:Realfagbygget A2-107
-DTSTART:20260114T071500Z
-SUMMARY:DCST1006 Laboratorieøvelse
-UID:47694966172e7a0
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260422T100000Z
-LOCATION:Realfagbygget A2-107
-DTSTART:20260422T061500Z
-SUMMARY:DCST1006 Laboratorieøvelse
-UID:60694966172e8ab
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260325T110000Z
-LOCATION:Realfagbygget A2-107
-DTSTART:20260325T071500Z
-SUMMARY:DCST1006 Laboratorieøvelse
-UID:57694966172e876
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
+DTSTAMP:20251222T161145Z
 DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
 DTEND:20260106T110000Z
 LOCATION:Realfagbygget R9
 DTSTART:20260106T081500Z
 SUMMARY:DCST1006 Forelesning
-UID:30694966172e641
+UID:3069496dc15ae1a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
+DTSTAMP:20251222T161145Z
 DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
 DTEND:20260128T110000Z
 LOCATION:Realfagbygget A2-107
 DTSTART:20260128T071500Z
 SUMMARY:DCST1006 Laboratorieøvelse
-UID:49694966172e7c7
+UID:4969496dc15b097
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
-DTEND:20260421T100000Z
-LOCATION:Realfagbygget R9
-DTSTART:20260421T071500Z
-SUMMARY:DCST1006 Forelesning
-UID:44694966172e76a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
-DTEND:20260324T110000Z
-LOCATION:Realfagbygget R9
-DTSTART:20260324T081500Z
-SUMMARY:DCST1006 Forelesning
-UID:41694966172e737
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
-DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
-DTEND:20260211T110000Z
-LOCATION:Realfagbygget A2-107
-DTSTART:20260211T071500Z
-SUMMARY:DCST1006 Laboratorieøvelse
-UID:51694966172e80a
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251222T153903Z
+DTSTAMP:20251222T161145Z
 DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
 DTEND:20260303T110000Z
 LOCATION:Realfagbygget R9
 DTSTART:20260303T081500Z
 SUMMARY:DCST1006 Forelesning
-UID:38694966172e703
+UID:3869496dc15aefd
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
+DTEND:20260113T110000Z
+LOCATION:Realfagbygget R9
+DTSTART:20260113T081500Z
+SUMMARY:DCST1006 Forelesning
+UID:3169496dc15ae36
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260422T100000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260422T061500Z
+SUMMARY:DCST1006 Laboratorieøvelse
+UID:6069496dc15b1d2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
+DTEND:20260217T110000Z
+LOCATION:Realfagbygget R9
+DTSTART:20260217T081500Z
+SUMMARY:DCST1006 Forelesning
+UID:3669496dc15aebb
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260204T110000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260204T071500Z
+SUMMARY:DCST1006 Laboratorieøvelse
+UID:5069496dc15b0b6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
+DTEND:20260127T110000Z
+LOCATION:Realfagbygget R9
+DTSTART:20260127T081500Z
+SUMMARY:DCST1006 Forelesning
+UID:3369496dc15ae6b
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
+DTEND:20260224T110000Z
+LOCATION:Realfagbygget R9
+DTSTART:20260224T081500Z
+SUMMARY:DCST1006 Forelesning
+UID:3769496dc15aed7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
+DTEND:20260203T110000Z
+LOCATION:Realfagbygget R9
+DTSTART:20260203T081500Z
+SUMMARY:DCST1006 Forelesning
+UID:3469496dc15ae87
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
+DTEND:20260210T110000Z
+LOCATION:Realfagbygget R9
+DTSTART:20260210T081500Z
+SUMMARY:DCST1006 Forelesning
+UID:3569496dc15aea1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
+DTEND:20260428T100000Z
+LOCATION:Realfagbygget R9
+DTSTART:20260428T071500Z
+SUMMARY:DCST1006 Forelesning
+UID:4569496dc15afb7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
+DTEND:20260120T110000Z
+LOCATION:Realfagbygget R9
+DTSTART:20260120T081500Z
+SUMMARY:DCST1006 Forelesning
+UID:3269496dc15ae51
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
+DTEND:20260324T110000Z
+LOCATION:Realfagbygget R9
+DTSTART:20260324T081500Z
+SUMMARY:DCST1006 Forelesning
+UID:4169496dc15af4d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
+DTEND:20260407T100000Z
+LOCATION:Realfagbygget R9
+DTSTART:20260407T071500Z
+SUMMARY:DCST1006 Forelesning
+UID:4269496dc15af67
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260225T110000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260225T071500Z
+SUMMARY:DCST1006 Laboratorieøvelse
+UID:5369496dc15b107
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260325T110000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260325T071500Z
+SUMMARY:DCST1006 Laboratorieøvelse
+UID:5769496dc15b17f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
+DTEND:20260317T110000Z
+LOCATION:Realfagbygget R9
+DTSTART:20260317T081500Z
+SUMMARY:DCST1006 Forelesning
+UID:4069496dc15af33
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260415T100000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260415T061500Z
+SUMMARY:DCST1006 Laboratorieøvelse
+UID:5969496dc15b1b5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260318T110000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260318T071500Z
+SUMMARY:DCST1006 Laboratorieøvelse
+UID:5669496dc15b163
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260218T110000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260218T071500Z
+SUMMARY:DCST1006 Laboratorieøvelse
+UID:5269496dc15b0ed
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260429T100000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260429T061500Z
+SUMMARY:DCST1006 Laboratorieøvelse
+UID:6169496dc15b1e5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260211T110000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260211T071500Z
+SUMMARY:DCST1006 Laboratorieøvelse
+UID:5169496dc15b0d3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260114T110000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260114T071500Z
+SUMMARY:DCST1006 Laboratorieøvelse
+UID:4769496dc15afee
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260311T110000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260311T071500Z
+SUMMARY:DCST1006 Laboratorieøvelse
+UID:5569496dc15b13a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
+DTEND:20260421T100000Z
+LOCATION:Realfagbygget R9
+DTSTART:20260421T071500Z
+SUMMARY:DCST1006 Forelesning
+UID:4469496dc15af9d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260107T110000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260107T071500Z
+SUMMARY:DCST1006 Laboratorieøvelse
+UID:4669496dc15afd2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-AU1-101
+DTEND:20260414T100000Z
+LOCATION:Realfagbygget R9
+DTSTART:20260414T071500Z
+SUMMARY:DCST1006 Forelesning
+UID:4369496dc15af82
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260304T110000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260304T071500Z
+SUMMARY:DCST1006 Laboratorieøvelse
+UID:5469496dc15b121
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T161145Z
+DESCRIPTION:DCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107: http://use.mazemap.com/?v=1&campuses=ntnu&sharepoitype=identifier&sharepoi=360-A2-107
+DTEND:20260408T100000Z
+LOCATION:Realfagbygget A2-107
+DTSTART:20260408T061500Z
+SUMMARY:DCST1006 Laboratorieøvelse
+UID:5869496dc15b19b
 END:VEVENT
 END:VCALENDAR
