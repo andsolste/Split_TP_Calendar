@@ -3,51 +3,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
-DTEND:20260324T110000Z
+DTEND:20260120T110000Z
 LOCATION:R9
-DTSTART:20260324T081500Z
+DTSTART:20260120T081500Z
 SUMMARY:06 f
-UID:416949c240c4540
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
-DTEND:20260107T110000Z
-LOCATION:A2-107
-DTSTART:20260107T071500Z
-SUMMARY:06 f
-UID:466949c240c4586
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
-DTEND:20260317T110000Z
-LOCATION:R9
-DTSTART:20260317T081500Z
-SUMMARY:06 f
-UID:406949c240c452c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
-DTEND:20260211T110000Z
-LOCATION:A2-107
-DTSTART:20260211T071500Z
-SUMMARY:06 f
-UID:516949c240c45db
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
-DTEND:20260429T100000Z
-LOCATION:A2-107
-DTSTART:20260429T061500Z
-SUMMARY:06 f
-UID:616949c240c4683
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
-DTEND:20260127T110000Z
-LOCATION:R9
-DTSTART:20260127T081500Z
-SUMMARY:06 f
-UID:336949c240c44be
+UID:32694a7eab99cea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
@@ -55,7 +15,7 @@ DTEND:20260407T100000Z
 LOCATION:R9
 DTSTART:20260407T071500Z
 SUMMARY:06 f
-UID:426949c240c454e
+UID:42694a7eab99d96
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
@@ -63,23 +23,7 @@ DTEND:20260304T110000Z
 LOCATION:A2-107
 DTSTART:20260304T071500Z
 SUMMARY:06 f
-UID:546949c240c4607
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
-DTEND:20260210T110000Z
-LOCATION:R9
-DTSTART:20260210T081500Z
-SUMMARY:06 f
-UID:356949c240c44db
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
-DTEND:20260421T100000Z
-LOCATION:R9
-DTSTART:20260421T071500Z
-SUMMARY:06 f
-UID:446949c240c456a
+UID:54694a7eab99e9e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
@@ -87,7 +31,15 @@ DTEND:20260318T110000Z
 LOCATION:A2-107
 DTSTART:20260318T071500Z
 SUMMARY:06 f
-UID:566949c240c4626
+UID:56694a7eab99ed0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
+DTEND:20260210T110000Z
+LOCATION:R9
+DTSTART:20260210T081500Z
+SUMMARY:06 f
+UID:35694a7eab99d14
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
@@ -95,47 +47,15 @@ DTEND:20260224T110000Z
 LOCATION:R9
 DTSTART:20260224T081500Z
 SUMMARY:06 f
-UID:376949c240c44fb
+UID:37694a7eab99d30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
-DTEND:20260303T110000Z
+DTEND:20260127T110000Z
 LOCATION:R9
-DTSTART:20260303T081500Z
+DTSTART:20260127T081500Z
 SUMMARY:06 f
-UID:386949c240c4509
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
-DTEND:20260408T100000Z
-LOCATION:A2-107
-DTSTART:20260408T061500Z
-SUMMARY:06 f
-UID:586949c240c4643
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
-DTEND:20260106T110000Z
-LOCATION:R9
-DTSTART:20260106T081500Z
-SUMMARY:06 f
-UID:306949c240c4486
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
-DTEND:20260113T110000Z
-LOCATION:R9
-DTSTART:20260113T081500Z
-SUMMARY:06 f
-UID:316949c240c44a0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
-DTEND:20260428T100000Z
-LOCATION:R9
-DTSTART:20260428T071500Z
-SUMMARY:06 f
-UID:456949c240c4578
+UID:33694a7eab99cf8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
@@ -143,39 +63,7 @@ DTEND:20260204T110000Z
 LOCATION:A2-107
 DTSTART:20260204T071500Z
 SUMMARY:06 f
-UID:506949c240c45cd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
-DTEND:20260422T100000Z
-LOCATION:A2-107
-DTSTART:20260422T061500Z
-SUMMARY:06 f
-UID:606949c240c4673
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
-DTEND:20260114T110000Z
-LOCATION:A2-107
-DTSTART:20260114T071500Z
-SUMMARY:06 f
-UID:476949c240c4595
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
-DTEND:20260218T110000Z
-LOCATION:A2-107
-DTSTART:20260218T071500Z
-SUMMARY:06 f
-UID:526949c240c45ea
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
-DTEND:20260203T110000Z
-LOCATION:R9
-DTSTART:20260203T081500Z
-SUMMARY:06 f
-UID:346949c240c44cd
+UID:50694a7eab99e65
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
@@ -183,23 +71,7 @@ DTEND:20260414T100000Z
 LOCATION:R9
 DTSTART:20260414T071500Z
 SUMMARY:06 f
-UID:436949c240c455c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
-DTEND:20260128T110000Z
-LOCATION:A2-107
-DTSTART:20260128T071500Z
-SUMMARY:06 f
-UID:496949c240c45be
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
-DTEND:20260311T110000Z
-LOCATION:A2-107
-DTSTART:20260311T071500Z
-SUMMARY:06 f
-UID:556949c240c4616
+UID:43694a7eab99da5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
@@ -207,39 +79,55 @@ DTEND:20260415T100000Z
 LOCATION:A2-107
 DTSTART:20260415T061500Z
 SUMMARY:06 f
-UID:596949c240c4662
+UID:59694a7eab99efe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
-DTEND:20260217T110000Z
+DTEND:20260303T110000Z
 LOCATION:R9
-DTSTART:20260217T081500Z
+DTSTART:20260303T081500Z
 SUMMARY:06 f
-UID:366949c240c44ec
+UID:38694a7eab99d3f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
-DTEND:20260121T110000Z
+DTEND:20260218T110000Z
 LOCATION:A2-107
-DTSTART:20260121T071500Z
+DTSTART:20260218T071500Z
 SUMMARY:06 f
-UID:486949c240c45a3
+UID:52694a7eab99e81
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
+DTEND:20260428T100000Z
+LOCATION:R9
+DTSTART:20260428T071500Z
+SUMMARY:06 f
+UID:45694a7eab99dc2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
+DTEND:20260113T110000Z
+LOCATION:R9
+DTSTART:20260113T081500Z
+SUMMARY:06 f
+UID:31694a7eab99cdc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
-DTEND:20260325T110000Z
+DTEND:20260114T110000Z
 LOCATION:A2-107
-DTSTART:20260325T071500Z
+DTSTART:20260114T071500Z
 SUMMARY:06 f
-UID:576949c240c4634
+UID:47694a7eab99de0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
-DTEND:20260225T110000Z
+DTEND:20260429T100000Z
 LOCATION:A2-107
-DTSTART:20260225T071500Z
+DTSTART:20260429T061500Z
 SUMMARY:06 f
-UID:536949c240c45f9
+UID:61694a7eab99f1c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
@@ -247,14 +135,126 @@ DTEND:20260310T110000Z
 LOCATION:R9
 DTSTART:20260310T081500Z
 SUMMARY:06 f
-UID:396949c240c4517
+UID:39694a7eab99d6a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260128T110000Z
+LOCATION:A2-107
+DTSTART:20260128T071500Z
+SUMMARY:06 f
+UID:49694a7eab99e55
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
-DTEND:20260120T110000Z
+DTEND:20260324T110000Z
 LOCATION:R9
-DTSTART:20260120T081500Z
+DTSTART:20260324T081500Z
 SUMMARY:06 f
-UID:326949c240c44b0
+UID:41694a7eab99d87
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260225T110000Z
+LOCATION:A2-107
+DTSTART:20260225T071500Z
+SUMMARY:06 f
+UID:53694a7eab99e8f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260311T110000Z
+LOCATION:A2-107
+DTSTART:20260311T071500Z
+SUMMARY:06 f
+UID:55694a7eab99ec0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
+DTEND:20260203T110000Z
+LOCATION:R9
+DTSTART:20260203T081500Z
+SUMMARY:06 f
+UID:34694a7eab99d06
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260325T110000Z
+LOCATION:A2-107
+DTSTART:20260325T071500Z
+SUMMARY:06 f
+UID:57694a7eab99ee0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260121T110000Z
+LOCATION:A2-107
+DTSTART:20260121T071500Z
+SUMMARY:06 f
+UID:48694a7eab99dee
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
+DTEND:20260217T110000Z
+LOCATION:R9
+DTSTART:20260217T081500Z
+SUMMARY:06 f
+UID:36694a7eab99d22
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260408T100000Z
+LOCATION:A2-107
+DTSTART:20260408T061500Z
+SUMMARY:06 f
+UID:58694a7eab99eef
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260211T110000Z
+LOCATION:A2-107
+DTSTART:20260211T071500Z
+SUMMARY:06 f
+UID:51694a7eab99e73
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
+DTEND:20260421T100000Z
+LOCATION:R9
+DTSTART:20260421T071500Z
+SUMMARY:06 f
+UID:44694a7eab99db3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
+DTEND:20260106T110000Z
+LOCATION:R9
+DTSTART:20260106T081500Z
+SUMMARY:06 f
+UID:30694a7eab99ccd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260107T110000Z
+LOCATION:A2-107
+DTSTART:20260107T071500Z
+SUMMARY:06 f
+UID:46694a7eab99dd1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Laboratorieøvelse\n\nDCST1006\nLaboratorieøvelse .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nA2-107:\n\nBygg: Realfagbygget\n\nRom: A2-107
+DTEND:20260422T100000Z
+LOCATION:A2-107
+DTSTART:20260422T061500Z
+SUMMARY:06 f
+UID:60694a7eab99f0d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: DCST1006 Forelesning\n\nDCST1006\nForelesning .\nU. Fatima\, M. Gajic\, B. Tola\n\nRealfagbygget\nR9:\n\nBygg: Realfagbygget\n\nRom: R9
+DTEND:20260317T110000Z
+LOCATION:R9
+DTSTART:20260317T081500Z
+SUMMARY:06 f
+UID:40694a7eab99d79
 END:VEVENT
 END:VCALENDAR
