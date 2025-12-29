@@ -2,340 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
-DTEND:20260318T190000Z
-LOCATION:R52
-DTSTART:20260318T151500Z
-SUMMARY:00 excited
-UID:124694a7f2401a42
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260310T150000Z
-LOCATION:R1
-DTSTART:20260310T131500Z
-SUMMARY:00 f
-UID:93694a7f240182d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260203T150000Z
-LOCATION:R1
-DTSTART:20260203T131500Z
-SUMMARY:00 f
-UID:88694a7f24017c5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260227T150000Z
+DTEND:20260116T150000Z
 LOCATION:R1
-DTSTART:20260227T131500Z
+DTSTART:20260116T131500Z
 SUMMARY:00 ØF
-UID:136694a7f2401bdc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260407T140000Z
-LOCATION:R1
-DTSTART:20260407T121500Z
-SUMMARY:00 f
-UID:96694a7f2401863
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
-DTEND:20260408T180000Z
-LOCATION:R52
-DTSTART:20260408T141500Z
-SUMMARY:00 excited
-UID:126694a7f2401a62
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260220T150000Z
-LOCATION:R1
-DTSTART:20260220T131500Z
-SUMMARY:00 ØF
-UID:135694a7f2401bc5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260313T150000Z
-LOCATION:R1
-DTSTART:20260313T131500Z
-SUMMARY:00 ØF
-UID:138694a7f2401bff
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
-DTEND:20260128T190000Z
-LOCATION:R52
-DTSTART:20260128T151500Z
-SUMMARY:00 excited
-UID:117694a7f24019ce
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260421T140000Z
-LOCATION:R1
-DTSTART:20260421T121500Z
-SUMMARY:00 f
-UID:98694a7f2401885
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
-DTEND:20260121T190000Z
-LOCATION:R52
-DTSTART:20260121T151500Z
-SUMMARY:00 excited
-UID:116694a7f24019b6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260224T150000Z
-LOCATION:R1
-DTSTART:20260224T131500Z
-SUMMARY:00 f
-UID:91694a7f24017fa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
-DTEND:20260119T130000Z
-LOCATION:F1
-DTSTART:20260119T111500Z
-SUMMARY:00 f
-UID:102694a7f24018ca
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
-DTEND:20260211T190000Z
-LOCATION:R52
-DTSTART:20260211T151500Z
-SUMMARY:00 excited
-UID:119694a7f24019ef
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
-DTEND:20260413T120000Z
-LOCATION:F1
-DTSTART:20260413T101500Z
-SUMMARY:00 f
-UID:112694a7f2401970
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
-DTEND:20260216T130000Z
-LOCATION:F1
-DTSTART:20260216T111500Z
-SUMMARY:00 f
-UID:106694a7f240190d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260410T140000Z
-LOCATION:R1
-DTSTART:20260410T121500Z
-SUMMARY:00 ØF
-UID:141694a7f2401c5f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
-DTEND:20260225T190000Z
-LOCATION:R52
-DTSTART:20260225T151500Z
-SUMMARY:00 excited
-UID:121694a7f2401a11
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260417T140000Z
-LOCATION:R1
-DTSTART:20260417T121500Z
-SUMMARY:00 ØF
-UID:142694a7f2401c79
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260123T150000Z
-LOCATION:R1
-DTSTART:20260123T131500Z
-SUMMARY:00 ØF
-UID:131694a7f2401b24
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260213T150000Z
-LOCATION:R1
-DTSTART:20260213T131500Z
-SUMMARY:00 ØF
-UID:134694a7f2401b5e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
-DTEND:20260202T130000Z
-LOCATION:F1
-DTSTART:20260202T111500Z
-SUMMARY:00 f
-UID:104694a7f24018ec
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
-DTEND:20260112T130000Z
-LOCATION:F1
-DTSTART:20260112T111500Z
-SUMMARY:00 f
-UID:101694a7f24018b9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260217T150000Z
-LOCATION:R1
-DTSTART:20260217T131500Z
-SUMMARY:00 f
-UID:90694a7f24017e9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
-DTEND:20260427T120000Z
-LOCATION:F1
-DTSTART:20260427T101500Z
-SUMMARY:00 f
-UID:114694a7f2401992
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
-DTEND:20260302T130000Z
-LOCATION:F1
-DTSTART:20260302T111500Z
-SUMMARY:00 f
-UID:108694a7f240192e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
-DTEND:20260311T190000Z
-LOCATION:R52
-DTSTART:20260311T151500Z
-SUMMARY:00 excited
-UID:123694a7f2401a31
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260206T150000Z
-LOCATION:R1
-DTSTART:20260206T131500Z
-SUMMARY:00 ØF
-UID:133694a7f2401b46
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260327T150000Z
-LOCATION:R1
-DTSTART:20260327T131500Z
-SUMMARY:00 ØF
-UID:140694a7f2401c30
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260324T150000Z
-LOCATION:R1
-DTSTART:20260324T131500Z
-SUMMARY:00 f
-UID:95694a7f2401852
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
-DTEND:20260325T190000Z
-LOCATION:R52
-DTSTART:20260325T151500Z
-SUMMARY:00 excited
-UID:125694a7f2401a52
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260210T150000Z
-LOCATION:R1
-DTSTART:20260210T131500Z
-SUMMARY:00 f
-UID:89694a7f24017d7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
-DTEND:20260422T180000Z
-LOCATION:R52
-DTSTART:20260422T141500Z
-SUMMARY:00 excited
-UID:128694a7f2401af0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260306T150000Z
-LOCATION:R1
-DTSTART:20260306T131500Z
-SUMMARY:00 ØF
-UID:137694a7f2401bee
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260113T150000Z
-LOCATION:R1
-DTSTART:20260113T131500Z
-SUMMARY:00 f
-UID:85694a7f240176c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260120T150000Z
-LOCATION:R1
-DTSTART:20260120T131500Z
-SUMMARY:00 f
-UID:86694a7f2401786
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260106T150000Z
-LOCATION:R1
-DTSTART:20260106T131500Z
-SUMMARY:00 f
-UID:84694a7f2401750
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260424T140000Z
-LOCATION:R1
-DTSTART:20260424T121500Z
-SUMMARY:00 ØF
-UID:143694a7f2401c91
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260127T150000Z
-LOCATION:R1
-DTSTART:20260127T131500Z
-SUMMARY:00 f
-UID:87694a7f24017a2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260303T150000Z
-LOCATION:R1
-DTSTART:20260303T131500Z
-SUMMARY:00 f
-UID:92694a7f240180b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260414T140000Z
-LOCATION:R1
-DTSTART:20260414T121500Z
-SUMMARY:00 f
-UID:97694a7f2401873
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
-DTEND:20260415T180000Z
-LOCATION:R52
-DTSTART:20260415T141500Z
-SUMMARY:00 excited
-UID:127694a7f2401a72
+UID:1306952f960aea8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
@@ -343,63 +15,63 @@ DTEND:20260114T190000Z
 LOCATION:R52
 DTSTART:20260114T151500Z
 SUMMARY:00 excited
-UID:115694a7f24019a5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
-DTEND:20260323T130000Z
-LOCATION:F1
-DTSTART:20260323T111500Z
-SUMMARY:00 f
-UID:111694a7f2401960
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
-DTEND:20260204T190000Z
-LOCATION:R52
-DTSTART:20260204T151500Z
-SUMMARY:00 excited
-UID:118694a7f24019df
+UID:1156952f960ae982
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260116T150000Z
+DTEND:20260227T150000Z
 LOCATION:R1
-DTSTART:20260116T131500Z
+DTSTART:20260227T131500Z
 SUMMARY:00 ØF
-UID:130694a7f2401b13
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
-DTEND:20260218T190000Z
-LOCATION:R52
-DTSTART:20260218T151500Z
-SUMMARY:00 excited
-UID:120694a7f2401a00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
-DTEND:20260316T130000Z
-LOCATION:F1
-DTSTART:20260316T111500Z
-SUMMARY:00 f
-UID:110694a7f240194f
+UID:1366952f960aeaee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260428T140000Z
+DTEND:20260203T150000Z
 LOCATION:R1
-DTSTART:20260428T121500Z
+DTSTART:20260203T131500Z
 SUMMARY:00 f
-UID:99694a7f2401896
+UID:886952f960ae7a4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
-DTEND:20260126T130000Z
+DTEND:20260202T130000Z
 LOCATION:F1
-DTSTART:20260126T111500Z
+DTSTART:20260202T111500Z
 SUMMARY:00 f
-UID:103694a7f24018db
+UID:1046952f960ae8c2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
+DTEND:20260302T130000Z
+LOCATION:F1
+DTSTART:20260302T111500Z
+SUMMARY:00 f
+UID:1086952f960ae901
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260415T180000Z
+LOCATION:R52
+DTSTART:20260415T141500Z
+SUMMARY:00 excited
+UID:1276952f960aea5a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260211T190000Z
+LOCATION:R52
+DTSTART:20260211T151500Z
+SUMMARY:00 excited
+UID:1196952f960ae9db
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260106T150000Z
+LOCATION:R1
+DTSTART:20260106T131500Z
+SUMMARY:00 f
+UID:846952f960ae762
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
@@ -407,63 +79,23 @@ DTEND:20260105T130000Z
 LOCATION:F1
 DTSTART:20260105T111500Z
 SUMMARY:00 f
-UID:100694a7f24018a7
+UID:1006952f960ae882
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
-DTEND:20260420T120000Z
+DTEND:20260216T130000Z
 LOCATION:F1
-DTSTART:20260420T101500Z
+DTSTART:20260216T111500Z
 SUMMARY:00 f
-UID:113694a7f2401981
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
-DTEND:20260209T130000Z
-LOCATION:F1
-DTSTART:20260209T111500Z
-SUMMARY:00 f
-UID:105694a7f24018fd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
-DTEND:20260223T130000Z
-LOCATION:F1
-DTSTART:20260223T111500Z
-SUMMARY:00 f
-UID:107694a7f240191e
+UID:1066952f960ae8e2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260130T150000Z
+DTEND:20260417T140000Z
 LOCATION:R1
-DTSTART:20260130T131500Z
+DTSTART:20260417T121500Z
 SUMMARY:00 ØF
-UID:132694a7f2401b35
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
-DTEND:20260304T190000Z
-LOCATION:R52
-DTSTART:20260304T151500Z
-SUMMARY:00 excited
-UID:122694a7f2401a21
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260320T150000Z
-LOCATION:R1
-DTSTART:20260320T131500Z
-SUMMARY:00 ØF
-UID:139694a7f2401c13
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260109T150000Z
-LOCATION:R1
-DTSTART:20260109T131500Z
-SUMMARY:00 ØF
-UID:129694a7f2401b02
+UID:1426952f960aeb5c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
@@ -471,7 +103,231 @@ DTEND:20260317T150000Z
 LOCATION:R1
 DTSTART:20260317T131500Z
 SUMMARY:00 f
-UID:94694a7f2401841
+UID:946952f960ae810
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260109T150000Z
+LOCATION:R1
+DTSTART:20260109T131500Z
+SUMMARY:00 ØF
+UID:1296952f960aea7b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260421T140000Z
+LOCATION:R1
+DTSTART:20260421T121500Z
+SUMMARY:00 f
+UID:986952f960ae861
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260120T150000Z
+LOCATION:R1
+DTSTART:20260120T131500Z
+SUMMARY:00 f
+UID:866952f960ae784
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
+DTEND:20260119T130000Z
+LOCATION:F1
+DTSTART:20260119T111500Z
+SUMMARY:00 f
+UID:1026952f960ae8a3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260414T140000Z
+LOCATION:R1
+DTSTART:20260414T121500Z
+SUMMARY:00 f
+UID:976952f960ae84c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260327T150000Z
+LOCATION:R1
+DTSTART:20260327T131500Z
+SUMMARY:00 ØF
+UID:1406952f960aeb2f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260304T190000Z
+LOCATION:R52
+DTSTART:20260304T151500Z
+SUMMARY:00 excited
+UID:1226952f960aea0a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
+DTEND:20260413T120000Z
+LOCATION:F1
+DTSTART:20260413T101500Z
+SUMMARY:00 f
+UID:1126952f960ae950
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260407T140000Z
+LOCATION:R1
+DTSTART:20260407T121500Z
+SUMMARY:00 f
+UID:966952f960ae833
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260206T150000Z
+LOCATION:R1
+DTSTART:20260206T131500Z
+SUMMARY:00 ØF
+UID:1336952f960aeabd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
+DTEND:20260323T130000Z
+LOCATION:F1
+DTSTART:20260323T111500Z
+SUMMARY:00 f
+UID:1116952f960ae93f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260217T150000Z
+LOCATION:R1
+DTSTART:20260217T131500Z
+SUMMARY:00 f
+UID:906952f960ae7c4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
+DTEND:20260316T130000Z
+LOCATION:F1
+DTSTART:20260316T111500Z
+SUMMARY:00 f
+UID:1106952f960ae920
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260318T190000Z
+LOCATION:R52
+DTSTART:20260318T151500Z
+SUMMARY:00 excited
+UID:1246952f960aea2a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260310T150000Z
+LOCATION:R1
+DTSTART:20260310T131500Z
+SUMMARY:00 f
+UID:936952f960ae7fe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
+DTEND:20260427T120000Z
+LOCATION:F1
+DTSTART:20260427T101500Z
+SUMMARY:00 f
+UID:1146952f960ae970
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260225T190000Z
+LOCATION:R52
+DTSTART:20260225T151500Z
+SUMMARY:00 excited
+UID:1216952f960ae9fb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260220T150000Z
+LOCATION:R1
+DTSTART:20260220T131500Z
+SUMMARY:00 ØF
+UID:1356952f960aeade
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260303T150000Z
+LOCATION:R1
+DTSTART:20260303T131500Z
+SUMMARY:00 f
+UID:926952f960ae7e3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
+DTEND:20260126T130000Z
+LOCATION:F1
+DTSTART:20260126T111500Z
+SUMMARY:00 f
+UID:1036952f960ae8b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260320T150000Z
+LOCATION:R1
+DTSTART:20260320T131500Z
+SUMMARY:00 ØF
+UID:1396952f960aeb1f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260408T180000Z
+LOCATION:R52
+DTSTART:20260408T141500Z
+SUMMARY:00 excited
+UID:1266952f960aea4a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260204T190000Z
+LOCATION:R52
+DTSTART:20260204T151500Z
+SUMMARY:00 excited
+UID:1186952f960ae9cb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260123T150000Z
+LOCATION:R1
+DTSTART:20260123T131500Z
+SUMMARY:00 ØF
+UID:1316952f960aea9d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260306T150000Z
+LOCATION:R1
+DTSTART:20260306T131500Z
+SUMMARY:00 ØF
+UID:1376952f960aeaff
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
+DTEND:20260209T130000Z
+LOCATION:F1
+DTSTART:20260209T111500Z
+SUMMARY:00 f
+UID:1056952f960ae8d2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260210T150000Z
+LOCATION:R1
+DTSTART:20260210T131500Z
+SUMMARY:00 f
+UID:896952f960ae7b4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260121T190000Z
+LOCATION:R52
+DTSTART:20260121T151500Z
+SUMMARY:00 excited
+UID:1166952f960ae998
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
@@ -479,6 +335,150 @@ DTEND:20260309T130000Z
 LOCATION:F1
 DTSTART:20260309T111500Z
 SUMMARY:00 f
-UID:109694a7f240193e
+UID:1096952f960ae910
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260410T140000Z
+LOCATION:R1
+DTSTART:20260410T121500Z
+SUMMARY:00 ØF
+UID:1416952f960aeb4a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260422T180000Z
+LOCATION:R52
+DTSTART:20260422T141500Z
+SUMMARY:00 excited
+UID:1286952f960aea6b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260128T190000Z
+LOCATION:R52
+DTSTART:20260128T151500Z
+SUMMARY:00 excited
+UID:1176952f960ae9b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
+DTEND:20260112T130000Z
+LOCATION:F1
+DTSTART:20260112T111500Z
+SUMMARY:00 f
+UID:1016952f960ae892
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260113T150000Z
+LOCATION:R1
+DTSTART:20260113T131500Z
+SUMMARY:00 f
+UID:856952f960ae773
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
+DTEND:20260223T130000Z
+LOCATION:F1
+DTSTART:20260223T111500Z
+SUMMARY:00 f
+UID:1076952f960ae8f1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260424T140000Z
+LOCATION:R1
+DTSTART:20260424T121500Z
+SUMMARY:00 ØF
+UID:1436952f960aeb6d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260324T150000Z
+LOCATION:R1
+DTSTART:20260324T131500Z
+SUMMARY:00 f
+UID:956952f960ae821
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260130T150000Z
+LOCATION:R1
+DTSTART:20260130T131500Z
+SUMMARY:00 ØF
+UID:1326952f960aeaad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260428T140000Z
+LOCATION:R1
+DTSTART:20260428T121500Z
+SUMMARY:00 f
+UID:996952f960ae872
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260127T150000Z
+LOCATION:R1
+DTSTART:20260127T131500Z
+SUMMARY:00 f
+UID:876952f960ae794
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260311T190000Z
+LOCATION:R52
+DTSTART:20260311T151500Z
+SUMMARY:00 excited
+UID:1236952f960aea1a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nIT-bygget\, sydfløy\nF1:\n\nBygg: IT-bygget\, sydfløy\n\nRom: F1
+DTEND:20260420T120000Z
+LOCATION:F1
+DTSTART:20260420T101500Z
+SUMMARY:00 f
+UID:1136952f960ae960
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260218T190000Z
+LOCATION:R52
+DTSTART:20260218T151500Z
+SUMMARY:00 excited
+UID:1206952f960ae9eb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260213T150000Z
+LOCATION:R1
+DTSTART:20260213T131500Z
+SUMMARY:00 ØF
+UID:1346952f960aeace
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260224T150000Z
+LOCATION:R1
+DTSTART:20260224T131500Z
+SUMMARY:00 f
+UID:916952f960ae7d4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260313T150000Z
+LOCATION:R1
+DTSTART:20260313T131500Z
+SUMMARY:00 ØF
+UID:1386952f960aeb0f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Labøving Excited arbeidsdag\n\nTDT4100\nLabøving Excited arbeidsdag .\n\nRealfagbygget\nR52:\n\nBygg: Realfagbygget\n\nRom: R52
+DTEND:20260325T190000Z
+LOCATION:R52
+DTSTART:20260325T151500Z
+SUMMARY:00 excited
+UID:1256952f960aea3a
 END:VEVENT
 END:VCALENDAR
