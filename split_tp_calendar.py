@@ -14,8 +14,8 @@ Slik bruker du scriptet:
 5) Kjør scriptet
 
 Tips:
-- Sett DRY_RUN=True først for å teste uten å skrive .ics-filer.
-- FAIL_FAST=True anbefales (stopper tidlig med tydelige feilmeldinger).
+- Sett DRY_RUN = True først for å teste uten å skrive .ics-filer.
+- FAIL_FAST = True anbefales (stopper tidlig med tydelige feilmeldinger).
 
 Du ba om:
 - Dry-run toggle

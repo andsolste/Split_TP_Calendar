@@ -74,7 +74,7 @@ Hvis du går **cybersikkerhet** sammen med meg, trenger du **ikke** å kjøre sc
 Jeg legger ut ferdig genererte .ics-filer (råfiler) i GitHub-repoet mitt. Du kan abonnere direkte på disse i Google Kalender:
 
 **Slik gjør du det:**
-1. Gå inn på GitHub-repoet
+1. Gå inn på GitHub-repoet mitt
 
 2. Klikk på ønsket `.ics-fil`
 
