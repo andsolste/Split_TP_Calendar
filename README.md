@@ -168,6 +168,7 @@ Hver regel har:
 `click_to_run.bat`:
 - starter Python-scriptet
 - kan kjøres manuelt (dobbeltklikk)
+- eksporterer terminalen til en log fil som legges på skrivebordet
 - brukes av Task Scheduler
 
 👉 Du trenger ikke endre `.bat`-fila så lenge filnavnene er de samme.
