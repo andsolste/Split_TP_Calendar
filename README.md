@@ -1,142 +1,195 @@
-# Split TP Calendar (NTNU)
+# 📅 Split TP Calendar (NTNU)
 
-Dette prosjektet brukes til å **splitte NTNU sin TP (Timeplan)-kalender** i flere separate `.ics`-kalendere – én per fag – slik at de enkelt kan abonneres på i **Google Kalender** med egne farger.
+Dette prosjektet gjør NTNU sin **TP-kalender (Timeplan)** mye enklere å bruke ved å splitte én stor iCal-kalender opp i **én ryddig kalender per fag**.
 
-Prosjektet er laget for å:
-- filtrere bort irrelevante aktiviteter
-- rydde titler og beskrivelser
-- gjøre kalenderen mer lesbar i uke-/dagsvisning
-- fungere stabilt over tid (og neste studieår)
+Resultatet er flere `.ics`-filer som kan abonneres på i **Google Kalender**, slik at du:
+- kan gi hvert fag sin egen farge 🎨
+- slipper lange og rotete titler
+- får bedre oversikt i uke- og dagsvisning
+- kan filtrere bort ting du ikke vil se
 
----
-
-## ✨ Hva scriptet gjør
-
-- Leser én samlet TP-iCal (studentgruppe)
-- Deler den opp i flere `.ics`-filer (én per fag)
-- Gir korte og konsistente titler (f.eks. `06 f`, `00 ØF`, `00 excited`)
-- Flytter all detaljert informasjon til beskrivelsen
-- Fjerner MazeMap-lenker, men beholder bygg og rom
-- Skriver Google-kompatible `.ics`-filer (RFC 5545)
-- Kan kjøres **helt automatisk** ved oppstart
-- Kan **automatisk commite og pushe** endringer til GitHub
+Prosjektet er laget for **NTNU-studenter**, også for deg uten IT-bakgrunn.
 
 ---
 
-## 📁 Output
+## 📖 Innholdsfortegnelse
+1. Hva gjør scriptet?
+2. Hvordan fungerer det i praksis?
+3. Filer i prosjektet
+4. Kom i gang (steg-for-steg)
+5. Hva må du endre i Python-filen?
+6. Event-filter (kort forklart)
+7. Kjøring via .bat-fil
+8. Automatisk kjøring med Task Scheduler (Windows)
+9. Automatisk oppdatering til Google Kalender (GitHub)
+10. Viktig å vite om Google Kalender
+11. Status
 
-Scriptet genererer én `.ics`-fil per fag, for eksempel:
+---
 
+## 🎯 Hva gjør scriptet?
+
+Når du kjører `split_tp_calendar.py`:
+
+- 📥 Laster ned **én samlet TP-kalender** (iCal-lenke fra NTNU)
+- ✂️ Deler den opp i **én `.ics`-fil per fag**
+- 🏷️ Gir korte, konsistente titler (f.eks. `00 f`, `00 ØF`)
+- 📝 Flytter detaljer til beskrivelsen
+- 🗺️ Fjerner MazeMap-lenker, men beholder bygg og rom
+- 🚫 Kan filtrere bort uønskede hendelser (valgfritt)
+- ⚠️ Sjekker konflikter på tvers av alle fag
+- 📊 Gir tydelig rapport + kort *pretty summary*
+
+Alt er optimalisert for **Google Kalender**.
+
+---
+
+## 🔄 Hvordan fungerer det i praksis?
+
+1. Du abonnerer på hver `.ics`-fil i Google Kalender  
+2. Scriptet kjøres automatisk på PC-en din  
+3. `.ics`-filene oppdateres  
+4. Google Kalender oppdaterer seg selv 🎉  
+
+Du trenger **ikke** å importere på nytt hver gang.
+
+---
+
+## 📁 Filer i prosjektet
+
+| Fil | Hva den brukes til |
+|---|---|
+| `split_tp_calendar.py` | Hovedscriptet |
+| `00.ics`, `02.ics`, osv. | Ferdige kalendere (én per fag) |
+| `click_to_run.bat` | Kjører Python-scriptet |
+| `README.md` | Denne filen |
+
+---
+
+## 🚀 Kom i gang (steg-for-steg)
+
+### 1️⃣ Klon eller last ned prosjektet
+Legg prosjektet et sted som **ikke flyttes** (viktig for automatisering).
+
+### 2️⃣ Installer Python (hvis du ikke har)
+Last ned fra https://www.python.org  
+✔️ Huk av for **Add Python to PATH** under installasjon.
+
+### 3️⃣ Installer nødvendige pakker
+Åpne **Kommandolinje / PowerShell** i prosjektmappen og kjør:
+```bash
+pip install ics requests python-dateutil
 ```
-00.ics   (TDT4100)
-02.ics   (IDATT2002)
-05.ics   (DCST1005)
-06.ics   (DCST1006)
-```
-
-Disse kan legges til i Google Kalender via  
-**Innstillinger → Legg til kalender → Fra URL**.
 
 ---
 
-## ⚙️ Konfigurasjon (øverst i scriptet)
+## ⚙️ Hva må du endre i Python-filen?
 
-Alle ting som normalt må endres (nye fag, nytt semester) ligger samlet øverst i Python-scriptet:
+👉 **ALT du skal endre ligger samlet øverst i `split_tp_calendar.py`.**  
+Du trenger aldri å røre resten av koden.
 
-- TP-lenke (`ICS_URL`)
-- Fagkoder → kortkoder (`COURSES`)
-- Regler for typer (`TYPE_RULES`)
-- Standardtype (`DEFAULT_TYPE`)
-
-Dette gjør scriptet enkelt å gjenbruke neste år.
-
----
-
-## 🚀 Automatisk kjøring + auto-commit (Windows)
-
-Prosjektet støtter full automatisering ved hjelp av en `.bat`-fil.
-
-### Hva skjer automatisk?
-Når du starter PC-en eller logger inn:
-
-1. Python-scriptet kjøres
-2. `.ics`-filene oppdateres
-3. Endringer committes til Git
-4. Endringer pushes til GitHub
-5. Google Kalender oppdaterer seg selv via abonnement
-
----
-
-## 🧩 `run_and_push.bat`
-
-Lag en fil i prosjektmappen som heter:
-
-```
-run_and_push.bat
+### 🔹 1. TP-lenke
+Lim inn din egen TP-iCal-lenke:
+```python
+"ICS_URL": "https://tp.educloud.no/ntnu/timeplan/ical.php?...",
 ```
 
-📄 Logg skrives til:
+### 🔹 2. Fagene dine
+Legg inn fagkode, kortkode og filnavn:
+```python
+"COURSES": {
+  "TDT4100": {"short": "00", "file": "00.ics"},
+  "IDATT2002": {"short": "02", "file": "02.ics"},
+}
 ```
-Desktop\split_tp_log.txt
+
+### 🔹 3. Test først (anbefalt)
+```python
+"DRY_RUN": True
+```
+Da skrives ingen filer – kun rapport.
+
+Når alt ser riktig ut:
+```python
+"DRY_RUN": False
 ```
 
 ---
 
-## 🖥️ Kjør automatisk ved oppstart (Startup)
+## 🚫 Event-filter (kort forklart)
 
-1. Trykk **Win + R**
-2. Skriv:
-   ```
-   shell:startup
-   ```
-3. Trykk Enter
-4. Lag en **snarvei** til `run_and_push.bat` i denne mappen
+Event-filter brukes for å fjerne bestemte hendelser automatisk, f.eks.:
+- faste forelesninger du ikke vil se
+- bestemte dager/tidspunkt
+- spesifikke rom eller titler
 
-Scriptet kjøres nå automatisk hver gang du logger inn.
+Hver regel har:
+- Regel-ID
+- tydelig grunn (vises i rapporten)
 
----
-
-## 🔐 GitHub (én gangs oppsett)
-
-For at push skal fungere automatisk:
-
-1. Åpne terminal i prosjektmappen
-2. Kjør:
-   ```bash
-   git push
-   ```
-3. Logg inn på GitHub hvis du blir spurt
-
-Git lagrer legitimasjonen, slik at `.bat`-fila kan pushe uten input senere.
+👉 Alt er ment å være selvforklarende i toppen av fila.
 
 ---
 
-## 📅 Google Kalender
+## ▶️ Kjøring via .bat-fil
 
-For hver `.ics`-fil:
+`click_to_run.bat`:
+- starter Python-scriptet
+- kan kjøres manuelt (dobbeltklikk)
+- brukes av Task Scheduler
 
-1. Åpne fila i GitHub
-2. Klikk **Raw**
-3. Kopier URL-en
-4. Google Kalender → **Innstillinger → Legg til kalender → Fra URL**
-5. Lim inn URL-en
-
-📌 Oppdatering skjer automatisk (kan ta litt tid).
+👉 Du trenger ikke endre `.bat`-fila så lenge filnavnene er de samme.
 
 ---
 
-## ℹ️ Viktig å vite
+## ⏰ Automatisk kjøring med Task Scheduler (Windows)
 
-- Google Kalender oppdaterer eksterne kalendere **asynkront**
-- Det er normalt at én kalender dukker opp før en annen
-- Ikke slett og legg til på nytt – bare vent
+1. Åpne **Task Scheduler**  
+2. Velg **Create Task**
+3. **General**:
+   - Name: Split TP Calendar  
+   - Huk av for *Run whether user is logged on or not*  
+   - Huk av for *Run with highest privileges*
+4. **Triggers**:
+   - New → f.eks. *At log on* eller *Daily at 21:00*
+5. **Actions**:
+   - Program/script: `click_to_run.bat`
+   - Start in: prosjektmappen (veldig viktig)
+6. Lagre og skriv inn Windows-passord hvis du blir spurt
+
+✅ Scriptet kjører nå automatisk.
+
+---
+
+## 🔄 Automatisk oppdatering til Google Kalender (GitHub)
+
+1. Push `.ics`-filene til GitHub  
+2. For hver kalender:
+   - Åpne filen i GitHub
+   - Klikk **Raw**
+   - Kopier URL-en
+   - Google Kalender → Innstillinger → Legg til kalender → Fra URL
+
+Google vil nå hente oppdateringer automatisk.
+
+---
+
+## 📅 Viktig å vite om Google Kalender
+
+- ⏳ Oppdatering skjer asynkront  
+- ❌ Ikke slett og legg til på nytt  
+- ✅ Bare vent – oppdateringen kommer  
+
+Dette er helt normalt.
 
 ---
 
 ## ✅ Status
 
-Dette oppsettet er:
-- stabilt
-- Google-kompatibelt
-- framtidssikkert
-- laget for gjenbruk neste studieår
+Dette prosjektet er:
+- stabilt over tid
+- lett å gjenbruke neste semester
+- laget for ikke-tekniske brukere
+- optimalisert for Google Kalender
+
+Lykke til – og nyt en ryddigere timeplan 🙌
