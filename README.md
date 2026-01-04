@@ -92,7 +92,7 @@ Jeg legger ut ferdig genererte .ics-filer (råfiler) i GitHub-repoet mitt. Du ka
 
 Google Kalender vil nå automatisk holde kalenderen oppdatert når jeg oppdaterer filene i GitHub.
 
-👉 Du slipper Python, script, Task Scheduler og manuell oppdatering – det bare funker ✅
+👉 Du slipper Python, script, Task Scheduler og manuell oppdatering. Det bare fungerer ✅
 
 
 
@@ -139,7 +139,7 @@ Legg inn fagkode, kortkode og filnavn:
 ```python
 "DRY_RUN": True
 ```
-Da skrives ingen filer – kun rapport.
+Da skrives ingen filer, kun rapport.
 
 Når alt ser riktig ut:
 ```python
@@ -211,7 +211,7 @@ Google vil nå hente oppdateringer automatisk.
 
 - ⏳ Oppdatering skjer asynkront  
 - ❌ Ikke slett og legg til på nytt  
-- ✅ Bare vent – oppdateringen kommer  
+- ✅ Bare vent, oppdateringen kommer  
 
 Dette er helt normalt.
 
@@ -225,4 +225,4 @@ Dette prosjektet er:
 - laget for ikke-tekniske brukere
 - optimalisert for Google Kalender
 
-Lykke til – og nyt en ryddigere timeplan 🙌
+Lykke til og nyt en ryddigere timeplan 🙌
