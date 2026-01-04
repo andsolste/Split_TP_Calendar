@@ -16,14 +16,15 @@ Prosjektet er laget for **NTNU-studenter**, også for deg uten IT-bakgrunn.
 1. Hva gjør scriptet?
 2. Hvordan fungerer det i praksis?
 3. Filer i prosjektet
-4. Kom i gang (steg-for-steg)
-5. Hva må du endre i Python-filen?
-6. Event-filter (kort forklart)
-7. Kjøring via .bat-fil
-8. Automatisk kjøring med Task Scheduler (Windows)
-9. Automatisk oppdatering til Google Kalender (GitHub)
-10. Viktig å vite om Google Kalender
-11. Status
+4. For deg som går Cybersikkerhet med meg
+5. Kom i gang (steg-for-steg)
+6. Hva må du endre i Python-filen?
+7. Event-filter (kort forklart)
+8. Kjøring via .bat-fil
+9. Automatisk kjøring med Task Scheduler (Windows)
+10. Automatisk oppdatering til Google Kalender (GitHub)
+11. Viktig å vite om Google Kalender
+12. Status
 
 ---
 
@@ -66,6 +67,37 @@ Du trenger **ikke** å importere på nytt hver gang.
 
 ---
 
+## 🛡️ For deg som går cybersikkerhet med meg (enkelt oppsett)
+
+Hvis du går **cybersikkerhet** sammen med meg, trenger du **ikke** å kjøre scriptet selv.
+
+Jeg legger ut ferdig genererte .ics-filer (råfiler) i GitHub-repoet mitt. Du kan abonnere direkte på disse i Google Kalender:
+
+**Slik gjør du det:**
+1. Gå inn på GitHub-repoet
+
+2. Klikk på ønsket `.ics-fil`
+
+3. Trykk **Raw**
+
+4. Kopier URL-en i adressefeltet
+
+5. Åpne **Google Kalender**
+
+6. Gå til:
+
+   `Innstillinger` → `Legg til kalender` → `Fra URL`
+
+7. Lim inn URL-en og trykk `Legg til kalender`
+
+Google Kalender vil nå automatisk holde kalenderen oppdatert når jeg oppdaterer filene i GitHub.
+
+👉 Du slipper Python, script, Task Scheduler og manuell oppdatering – det bare funker ✅
+
+
+
+
+---
 ## 🚀 Kom i gang (steg-for-steg)
 
 ### 1️⃣ Klon eller last ned prosjektet
