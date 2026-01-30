@@ -3,91 +3,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260410T140000Z
-LOCATION:R1
-DTSTART:20260410T121500Z
-SUMMARY:00 ØF
-UID:141697c81d500aa3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260306T150000Z
-LOCATION:R1
-DTSTART:20260306T131500Z
-SUMMARY:00 ØF
-UID:137697c81d500a51
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260227T150000Z
-LOCATION:R1
-DTSTART:20260227T131500Z
-SUMMARY:00 ØF
-UID:136697c81d500a3f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260421T140000Z
-LOCATION:R1
-DTSTART:20260421T121500Z
-SUMMARY:00 f
-UID:98697c81d500787
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260116T150000Z
-LOCATION:R1
-DTSTART:20260116T131500Z
-SUMMARY:00 ØF
-UID:130697c81d5009d8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260120T150000Z
-LOCATION:R1
-DTSTART:20260120T131500Z
-SUMMARY:00 f
-UID:86697c81d5006ab
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260424T140000Z
-LOCATION:R1
-DTSTART:20260424T121500Z
-SUMMARY:00 ØF
-UID:143697c81d500ac8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
 DTEND:20260320T150000Z
 LOCATION:R1
 DTSTART:20260320T131500Z
 SUMMARY:00 ØF
-UID:139697c81d500a73
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260203T150000Z
-LOCATION:R1
-DTSTART:20260203T131500Z
-SUMMARY:00 f
-UID:88697c81d5006cd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260109T150000Z
-LOCATION:R1
-DTSTART:20260109T131500Z
-SUMMARY:00 ØF
-UID:129697c81d5009c6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260310T150000Z
-LOCATION:R1
-DTSTART:20260310T131500Z
-SUMMARY:00 f
-UID:93697c81d500732
+UID:139697c823cce5d7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
@@ -95,103 +15,7 @@ DTEND:20260224T150000Z
 LOCATION:R1
 DTSTART:20260224T131500Z
 SUMMARY:00 f
-UID:91697c81d500703
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260206T150000Z
-LOCATION:R1
-DTSTART:20260206T131500Z
-SUMMARY:00 ØF
-UID:133697c81d500a0c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260324T150000Z
-LOCATION:R1
-DTSTART:20260324T131500Z
-SUMMARY:00 f
-UID:95697c81d500756
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260220T150000Z
-LOCATION:R1
-DTSTART:20260220T131500Z
-SUMMARY:00 ØF
-UID:135697c81d500a2e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260130T150000Z
-LOCATION:R1
-DTSTART:20260130T131500Z
-SUMMARY:00 ØF
-UID:132697c81d5009fb
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260113T150000Z
-LOCATION:R1
-DTSTART:20260113T131500Z
-SUMMARY:00 f
-UID:85697c81d500699
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260414T140000Z
-LOCATION:R1
-DTSTART:20260414T121500Z
-SUMMARY:00 f
-UID:97697c81d500777
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260417T140000Z
-LOCATION:R1
-DTSTART:20260417T121500Z
-SUMMARY:00 ØF
-UID:142697c81d500ab6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260313T150000Z
-LOCATION:R1
-DTSTART:20260313T131500Z
-SUMMARY:00 ØF
-UID:138697c81d500a62
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260123T150000Z
-LOCATION:R1
-DTSTART:20260123T131500Z
-SUMMARY:00 ØF
-UID:131697c81d5009ea
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260428T140000Z
-LOCATION:R1
-DTSTART:20260428T121500Z
-SUMMARY:00 f
-UID:99697c81d500798
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260127T150000Z
-LOCATION:R1
-DTSTART:20260127T131500Z
-SUMMARY:00 f
-UID:87697c81d5006bc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260210T150000Z
-LOCATION:R1
-DTSTART:20260210T131500Z
-SUMMARY:00 f
-UID:89697c81d5006de
+UID:91697c823cce30f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
@@ -199,39 +23,71 @@ DTEND:20260317T150000Z
 LOCATION:R1
 DTSTART:20260317T131500Z
 SUMMARY:00 f
-UID:94697c81d500745
+UID:94697c823cce341
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260407T140000Z
+DTEND:20260113T150000Z
 LOCATION:R1
-DTSTART:20260407T121500Z
+DTSTART:20260113T131500Z
 SUMMARY:00 f
-UID:96697c81d500766
+UID:85697c823cce2b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260303T150000Z
+DTEND:20260428T140000Z
 LOCATION:R1
-DTSTART:20260303T131500Z
+DTSTART:20260428T121500Z
 SUMMARY:00 f
-UID:92697c81d500714
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260106T150000Z
-LOCATION:R1
-DTSTART:20260106T131500Z
-SUMMARY:00 f
-UID:84697c81d500685
+UID:99697c823cce389
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
-DTEND:20260327T150000Z
+DTEND:20260116T150000Z
 LOCATION:R1
-DTSTART:20260327T131500Z
+DTSTART:20260116T131500Z
 SUMMARY:00 ØF
-UID:140697c81d500a84
+UID:130697c823cce555
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260127T150000Z
+LOCATION:R1
+DTSTART:20260127T131500Z
+SUMMARY:00 f
+UID:87697c823cce2d6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260130T150000Z
+LOCATION:R1
+DTSTART:20260130T131500Z
+SUMMARY:00 ØF
+UID:132697c823cce573
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260306T150000Z
+LOCATION:R1
+DTSTART:20260306T131500Z
+SUMMARY:00 ØF
+UID:137697c823cce5bb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260424T140000Z
+LOCATION:R1
+DTSTART:20260424T121500Z
+SUMMARY:00 ØF
+UID:143697c823cce614
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260210T150000Z
+LOCATION:R1
+DTSTART:20260210T131500Z
+SUMMARY:00 f
+UID:89697c823cce2f3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
@@ -239,7 +95,143 @@ DTEND:20260213T150000Z
 LOCATION:R1
 DTSTART:20260213T131500Z
 SUMMARY:00 ØF
-UID:134697c81d500a1e
+UID:134697c823cce590
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260414T140000Z
+LOCATION:R1
+DTSTART:20260414T121500Z
+SUMMARY:00 f
+UID:97697c823cce36c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260109T150000Z
+LOCATION:R1
+DTSTART:20260109T131500Z
+SUMMARY:00 ØF
+UID:129697c823cce547
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260410T140000Z
+LOCATION:R1
+DTSTART:20260410T121500Z
+SUMMARY:00 ØF
+UID:141697c823cce5f8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260220T150000Z
+LOCATION:R1
+DTSTART:20260220T131500Z
+SUMMARY:00 ØF
+UID:135697c823cce59f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260313T150000Z
+LOCATION:R1
+DTSTART:20260313T131500Z
+SUMMARY:00 ØF
+UID:138697c823cce5c9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260310T150000Z
+LOCATION:R1
+DTSTART:20260310T131500Z
+SUMMARY:00 f
+UID:93697c823cce333
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260106T150000Z
+LOCATION:R1
+DTSTART:20260106T131500Z
+SUMMARY:00 f
+UID:84697c823cce2a9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260303T150000Z
+LOCATION:R1
+DTSTART:20260303T131500Z
+SUMMARY:00 f
+UID:92697c823cce31e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260324T150000Z
+LOCATION:R1
+DTSTART:20260324T131500Z
+SUMMARY:00 f
+UID:95697c823cce350
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260120T150000Z
+LOCATION:R1
+DTSTART:20260120T131500Z
+SUMMARY:00 f
+UID:86697c823cce2c8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260123T150000Z
+LOCATION:R1
+DTSTART:20260123T131500Z
+SUMMARY:00 ØF
+UID:131697c823cce564
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260227T150000Z
+LOCATION:R1
+DTSTART:20260227T131500Z
+SUMMARY:00 ØF
+UID:136697c823cce5ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260417T140000Z
+LOCATION:R1
+DTSTART:20260417T121500Z
+SUMMARY:00 ØF
+UID:142697c823cce606
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260203T150000Z
+LOCATION:R1
+DTSTART:20260203T131500Z
+SUMMARY:00 f
+UID:88697c823cce2e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260206T150000Z
+LOCATION:R1
+DTSTART:20260206T131500Z
+SUMMARY:00 ØF
+UID:133697c823cce581
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Øvingsforelesning 1\n\nTDT4100\nØvingsforelesning 1 .\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260327T150000Z
+LOCATION:R1
+DTSTART:20260327T131500Z
+SUMMARY:00 ØF
+UID:140697c823cce5e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260407T140000Z
+LOCATION:R1
+DTSTART:20260407T121500Z
+SUMMARY:00 f
+UID:96697c823cce35e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
@@ -247,6 +239,14 @@ DTEND:20260217T150000Z
 LOCATION:R1
 DTSTART:20260217T131500Z
 SUMMARY:00 f
-UID:90697c81d5006f1
+UID:90697c823cce301
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Original tittel: TDT4100 Forelesning 1\n\nTDT4100\nForelesning 1 .\nB. Haugset\, D.O. Kjellemo\n\nRealfagbygget\nR1:\n\nBygg: Realfagbygget\n\nRom: R1
+DTEND:20260421T140000Z
+LOCATION:R1
+DTSTART:20260421T121500Z
+SUMMARY:00 f
+UID:98697c823cce37b
 END:VEVENT
 END:VCALENDAR
